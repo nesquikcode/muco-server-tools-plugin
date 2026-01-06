@@ -1,0 +1,13 @@
+{
+    "id": "server-tools",
+    "name": "Server Tools",
+    "description": "Some useful tools for MUCO server.",
+    "version": "1.0.0",
+    "links": {
+        "gtihub": "https://github.com/nesquikcode/muco-server-tools-plugin"
+    },
+    "manifest": {
+        "main": "main.py",
+        "entry": "plugin"
+    }
+}
